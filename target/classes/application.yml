@@ -1,0 +1,5 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://stclaire1:UR_s6i960_Q%7D@clusterzada.i47gq.mongodb.net/
+            database: relacionamentos
